@@ -1,0 +1,28 @@
+{
+  "name": "irfwan",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGhoul21/irfwan.git"
+  },
+  "keywords": [
+    "isomorphic",
+    "reactjs",
+    "relay",
+    "graphql"
+  ],
+  "author": "Luca Simonetti <lucasimonetti21@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGhoul21/irfwan/issues"
+  },
+  "homepage": "https://github.com/TheGhoul21/irfwan#readme",
+  "bin": {
+    "say-hello": "./bin/say-hello.js"
+  }
+}
