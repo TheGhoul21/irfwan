@@ -14,7 +14,7 @@
 .idea/irfwan.iml
 .idea/misc.xml
 .idea/modules.xml
-
+.idea/
 # Sensitive or high-churn files:
 .idea/dataSources.ids
 .idea/dataSources.xml
